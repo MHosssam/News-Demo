@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+MERGED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+MERGED from [:shared_preferences] F:\FlutterProjects\first\thenews\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\46988bf365f6f851b8bbe2afbd38550b\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:1-50:12
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:9:5-49:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:11:9-32
+	tools:ignore
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:13:9-36
+	android:icon
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.MHosssam.thenews.MainActivity
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:14:9-43:20
+	android:launchMode
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:20:13-55
+	tools:ignore
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:21:13-42
+	android:configChanges
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:18:13-163
+	android:theme
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:28:15-52
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:27:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:35:13-38:17
+	android:resource
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:37:15-61
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:36:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:41:27-74
+meta-data#flutterEmbedding
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml:47:13-44
+uses-sdk
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] F:\FlutterProjects\first\thenews\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] F:\FlutterProjects\first\thenews\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\46988bf365f6f851b8bbe2afbd38550b\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\46988bf365f6f851b8bbe2afbd38550b\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Hossam\.gradle\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from F:\FlutterProjects\first\thenews\android\app\src\debug\AndroidManifest.xml:6:22-64
